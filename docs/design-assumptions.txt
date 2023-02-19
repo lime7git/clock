@@ -1,0 +1,17 @@
+Digital clock;
+
+Assumptions : 
+
+- ESP32 uController
+- WS2812b addressable led matrix (8x16, 8x20, 8x24?) - 8x32
+- 18650 battery with usb charger
+- RTC module (optional)
+- SD Card SPI
+- 8 Ohm speaker
+- Microphone
+- ToF sensor (optional) 
+- Light sensor (photoresistor)
+- One PCB with LED Matrix and one for controller
+- E-Paper display output
+- Temperature sensor
+- NMOSFET on display LED Matrix output
