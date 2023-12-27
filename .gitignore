@@ -29,3 +29,5 @@ fp-info-cache
 *.csv
 
 reference-design/
+
+software/clock/build
