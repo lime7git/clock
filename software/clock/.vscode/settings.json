@@ -38,6 +38,7 @@
         "limits.h": "c",
         "unity_fixture.h": "c",
         "random": "c",
-        "task_led.h": "c"
+        "task_led.h": "c",
+        "task.h": "c"
     },
 }

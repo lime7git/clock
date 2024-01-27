@@ -33,3 +33,5 @@ reference-design/
 software/clock/build
 
 software/clock/test/build
+
+managed_components/
