@@ -39,6 +39,11 @@
         "unity_fixture.h": "c",
         "random": "c",
         "task_led.h": "c",
-        "task.h": "c"
+        "task.h": "c",
+        "typeinfo": "c",
+        "chrono": "c",
+        "future": "c",
+        "system_error": "c",
+        "xlocale": "c"
     },
 }
