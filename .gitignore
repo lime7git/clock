@@ -31,3 +31,5 @@ fp-info-cache
 reference-design/
 
 software/clock/build
+
+software/clock/test/build
